@@ -1,0 +1,27 @@
+{
+  "name": "@shagital/adonisjs-card-validator",
+  "version": "1.0.0",
+  "description": "Credit/Debit Card validator for Adonisjs",
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "adonisjs",
+    "nodejs",
+    "credit card",
+    "card",
+    "debit card",
+    "cvv",
+    "cvv2",
+    "validation",
+    "validator"
+  ],
+  "author": "Zacchaeus Bolaji <zacchaeus@shagital.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shagital/adonisjs-card-validator.git"
+  },
+  "homepage": "https://github.com/Shagital/adonisjs-card-validator"
+}
