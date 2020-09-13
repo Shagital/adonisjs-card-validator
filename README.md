@@ -1,4 +1,7 @@
 # Adonisjs Card Validator ▲
+![npm](https://img.shields.io/npm/dt/@shagital/adonisjs-card-validator?style=plastic)
+![npm (scoped)](https://img.shields.io/npm/v/@shagital/adonisjs-card-validator)
+![NPM](https://img.shields.io/npm/l/@shagital/adonisjs-card-validator)
 
 ## Introduction
 Adds credit/debit card validation functionality to [Adonisjs](https://github.com/adonisjs/core) using [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
