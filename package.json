@@ -1,6 +1,6 @@
 {
   "name": "@shagital/adonisjs-card-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Credit/Debit Card validator for Adonisjs",
   "devDependencies": {
   },
